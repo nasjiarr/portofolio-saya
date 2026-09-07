@@ -1,0 +1,15 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="675" fill="#F3F6F5"/>
+<rect width="1200" height="66" fill="#12352F"/>
+<circle cx="35" cy="33" r="8" fill="#F59E0B"/><circle cx="61" cy="33" r="8" fill="#F3F6F5" opacity=".6"/>
+<rect x="100" y="25" width="180" height="16" rx="8" fill="#F3F6F5" opacity=".92"/>
+<rect x="922" y="22" width="98" height="22" rx="11" fill="#F59E0B"/><rect x="1034" y="25" width="78" height="16" rx="8" fill="#F3F6F5" opacity=".6"/>
+<rect x="0" y="66" width="230" height="609" fill="#1C4A42"/>
+<rect x="28" y="110" width="174" height="38" rx="8" fill="#F59E0B"/><rect x="47" y="122" width="104" height="14" rx="7" fill="#12352F"/>
+<rect x="47" y="190" width="126" height="12" rx="6" fill="#F3F6F5" opacity=".65"/><rect x="47" y="236" width="146" height="12" rx="6" fill="#F3F6F5" opacity=".35"/><rect x="47" y="282" width="118" height="12" rx="6" fill="#F3F6F5" opacity=".35"/><rect x="47" y="328" width="134" height="12" rx="6" fill="#F3F6F5" opacity=".35"/>
+<text x="270" y="128" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#12352F">Manajemen Berkas</text><text x="270" y="158" font-family="Arial, sans-serif" font-size="15" fill="#6B7B77">Kelola dan pantau arsip secara terpusat</text>
+<rect x="270" y="194" width="198" height="108" rx="10" fill="#FFFFFF"/><rect x="490" y="194" width="198" height="108" rx="10" fill="#FFFFFF"/><rect x="710" y="194" width="198" height="108" rx="10" fill="#FFFFFF"/>
+<rect x="294" y="220" width="44" height="44" rx="10" fill="#E8F5EF"/><rect x="514" y="220" width="44" height="44" rx="10" fill="#FFF4D9"/><rect x="734" y="220" width="44" height="44" rx="10" fill="#E7F0FA"/>
+<rect x="354" y="222" width="70" height="12" rx="6" fill="#6B7B77"/><rect x="354" y="246" width="88" height="20" rx="10" fill="#12352F"/><rect x="574" y="222" width="70" height="12" rx="6" fill="#6B7B77"/><rect x="574" y="246" width="88" height="20" rx="10" fill="#12352F"/><rect x="794" y="222" width="70" height="12" rx="6" fill="#6B7B77"/><rect x="794" y="246" width="88" height="20" rx="10" fill="#12352F"/>
+<rect x="270" y="338" width="638" height="270" rx="10" fill="#FFFFFF"/><rect x="298" y="366" width="130" height="14" rx="7" fill="#12352F"/><rect x="298" y="410" width="560" height="1" fill="#D9E2DF"/><rect x="298" y="444" width="200" height="12" rx="6" fill="#B9C9C4"/><rect x="540" y="444" width="120" height="12" rx="6" fill="#B9C9C4"/><rect x="730" y="444" width="90" height="22" rx="11" fill="#E8F5EF"/><rect x="298" y="492" width="200" height="12" rx="6" fill="#B9C9C4"/><rect x="540" y="492" width="120" height="12" rx="6" fill="#B9C9C4"/><rect x="730" y="492" width="90" height="22" rx="11" fill="#FFF4D9"/><rect x="298" y="540" width="200" height="12" rx="6" fill="#B9C9C4"/><rect x="540" y="540" width="120" height="12" rx="6" fill="#B9C9C4"/><rect x="730" y="540" width="90" height="22" rx="11" fill="#E7F0FA"/>
+</svg>
